@@ -3,12 +3,12 @@ const one = new Number(1);
 const str = "Hello World!";
 const b = true;
 const person = {
-    firstName:  "Aaron",
-    lastName: "Powell"
+  firstName: "Aaron",
+  lastName: "Powell",
 };
 
 function sayHello(person) {
-    console.log("Hello" + person.firstName);
+  console.log("Hello" + person.firstName);
 }
 
 console.log("--- typeof ---");
@@ -26,4 +26,3 @@ console.log(str instanceof String);
 console.log(b instanceof Boolean);
 console.log(person instanceof Object);
 console.log(sayHello instanceof Function);
-

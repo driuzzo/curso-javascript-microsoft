@@ -8,5 +8,5 @@ let arr2 = Array(arrayLength);
 // Getting array length
 console.log("\n*****Getting array length*****\n");
 
-console.log(arr1.length)
-console.log(arr2.length)
+console.log(arr1.length);
+console.log(arr2.length);

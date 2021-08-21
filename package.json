@@ -1,0 +1,24 @@
+{
+  "name": "curso-javascript-microsoft",
+  "version": "1.0.0",
+  "description": "Conteúdo do curso disponível na playlist: \r https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write *.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/driuzzo/curso-javascript-microsoft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/driuzzo/curso-javascript-microsoft/issues"
+  },
+  "homepage": "https://github.com/driuzzo/curso-javascript-microsoft#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}

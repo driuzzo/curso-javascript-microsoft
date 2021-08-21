@@ -1,7 +1,7 @@
-const status = 'error'
+const status = "error";
 
-if (status.toUpperCase() === 'ERROR') {
-    console.log('Something went wrong!');
+if (status.toUpperCase() === "ERROR") {
+  console.log("Something went wrong!");
 } else {
-    console.log('Looks great!')
+  console.log("Looks great!");
 }

@@ -7,6 +7,6 @@ const status = 400;
 //    message = 'Error!';
 //}
 
-const message = (status === 200) ? 'OK!' : 'Error'
+const message = status === 200 ? "OK!" : "Error";
 
 console.log(message);
